@@ -1,4 +1,0 @@
-#Son arreglos, pero con cualquier tipo de dato que le quiera poner
-
-numeros = [1:5]
-print(Numeros)

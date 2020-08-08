@@ -13,4 +13,6 @@ print (Palabra[10])
 print (Palabra[0:10])
 print (Palabra[:10])
 
-
+cantidad_palabras = len(Palabra)
+print(cantidad_palabras)
+print(Palabra[:cantidad_palabras])

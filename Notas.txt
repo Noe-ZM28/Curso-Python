@@ -1,0 +1,5 @@
+input() - sirve para ingresar informacion
+Pass - sirve para omitir bloques
+break - sirve para romper un bucle anter de que termine
+continue - sirve para omitir una iteracion
+NO EXISTE SWITCH!!! :´c

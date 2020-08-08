@@ -2,6 +2,7 @@ nota = float(input("ingresa la nota: "))
 
 if nota >=90 and nota <= 100:
     print("muy bien")
+    
 elif nota <90 and nota > 70:
     print("apenas")
 

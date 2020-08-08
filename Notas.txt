@@ -3,3 +3,26 @@ Pass - sirve para omitir bloques
 break - sirve para romper un bucle anter de que termine
 continue - sirve para omitir una iteracion
 NO EXISTE SWITCH!!! :´c
+
+LAs tuplas no se pueden modificar!
+.index(parametro) - indica ls posicion del parametro dentro de algun conjunto de datos
+.count(parametro) - indica cuantas veces esta ese parametro dentro de algun conjunto de datos
+
+Los conjuntos se ordenan automaticamente cuando gregas elementos
+En los conjuntos no hay elementos repetidos
+
+= set (parametro) - sirve para convertir el parametro a conjuntos de datos a conjuntos
+= list (parametro) - sirve para convertir el parametro a conjuntos de datos a lista
+
+= type(parametro) - sirve para indicar el tipo de dato que es el parametro
+
+Tanto los diccionarios como los conjuntos son colecciones desordenadas
+
+.append(parametro) - sirve para agregar elementos al final del conjunto de datos
+en las pilas solo pueden entrar y salir elementos
+en las pilas el ultimo en entrar con los primeros en salir
+
+
+en las colas el primer elemento en entrar es el primero en salir
+.pop() - saca el ultimo elemento de una pila
+.append() - saca el primer elemento de una pila
